@@ -2,7 +2,7 @@ Tabs for Later
 ============
 A [Safari Extension](https://extensions.apple.com) that saves tabs from currently active window for later reference.
 
-![Tabs for Later Preview](https://github.com/htinlinn/tabs-for-later/raw/master/Later.tiff "Preview")
+![Tabs for Later Preview](https://github.com/htinlinn/tabs-for-later/raw/master/Later.png "Preview")
 
 Installation
 ------------
